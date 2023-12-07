@@ -1,3 +1,8 @@
+
+
+https://github.com/sjtuytc/awesome-6d-object/assets/31123348/b74b5feb-6b50-4ef1-901c-33554fae630f
+
+
 # Awesome Object Pose Estimation and Reconstruction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of related resources for 6D object pose estimation, also including 3D objects reconstruction from a single view, and 3D hand-object pose estimation. 🔥 means new update.
