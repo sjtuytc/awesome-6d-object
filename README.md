@@ -1,4 +1,6 @@
 
+https://github.com/sjtuytc/awesome-6d-object/assets/31123348/338d6421-0b1a-4670-b121-78ff4371ca60
+
 
 https://github.com/sjtuytc/awesome-6d-object/assets/31123348/b74b5feb-6b50-4ef1-901c-33554fae630f
 
